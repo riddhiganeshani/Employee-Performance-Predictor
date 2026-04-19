@@ -243,9 +243,9 @@ After running `python main.py`, you'll get:
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Riddhi Ganeshani**
+- GitHub: [riddhiganeshani](https://github.com/riddhiganeshani)
+- LinkedIn: https://www.linkedin.com/in/riddhi-ganeshani-1a894632a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
