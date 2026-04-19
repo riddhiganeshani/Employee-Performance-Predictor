@@ -1,0 +1,16 @@
+{
+  "best_model": "Logistic Regression",
+  "test_accuracy": 0.76,
+  "f1_score": 0.7581,
+  "cv_mean": 0.73,
+  "classes": [
+    1,
+    2,
+    3
+  ],
+  "class_labels": {
+    "1": "Low",
+    "2": "Medium",
+    "3": "High"
+  }
+}

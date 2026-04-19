@@ -1,0 +1,6 @@
+Model,Test Accuracy,F1 Score (Weighted),CV Mean Accuracy,CV Std
+Logistic Regression,0.76,0.7581,0.73,0.038
+SVM,0.72,0.7038,0.6938,0.0356
+Gradient Boosting,0.705,0.6983,0.7088,0.02
+Random Forest,0.695,0.6523,0.6962,0.0179
+Decision Tree,0.6,0.5902,0.595,0.0558
